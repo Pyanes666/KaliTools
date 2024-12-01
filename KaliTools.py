@@ -1,4 +1,4 @@
-
+print("Please wait while the instalation finish")
 import os
 
 os.system("add-apt-repository ppa:diesch/testing && apt-get update")
